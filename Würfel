@@ -1,0 +1,10 @@
+public class Main{
+
+public static void main(String[] args){
+Random a = new Random();
+int Wurfelzahl = 1+ a.nextInt();
+System.out.println(Wuefelzahl);
+
+}
+
+}
